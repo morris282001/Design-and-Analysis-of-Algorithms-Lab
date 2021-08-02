@@ -1,1 +1,1 @@
-# Design-and-Analysis-of-Algorithms-Lab
+# In this repository i have added codes of several algorithmic clockrime problems that i did while attending the Data analysis and algorithms lab at my college.
