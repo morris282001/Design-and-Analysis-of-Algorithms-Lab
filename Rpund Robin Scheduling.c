@@ -1,34 +1,5 @@
-Skip to content
-Search or jump to…
+//Implementing the following processes using c language and compute waiting time, average waiting time, turnaround time, and average turnaround time. Process Burst Time Arrival Time(Assumed) respectively P1 53 0 P2 17 2 P3 68 4 P4 24 6
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@morris282001 
-morris282001
-/
-Round-robin-scheduling
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Create code
- main
-@morris282001
-morris282001 committed on Jun 20 
-1 parent 86f4f2c commit cfb7adcbc0e3af2c8c3041a42e89576f6bf4610a
-Showing  with 91 additions and 0 deletions.
- 91  code 
-@@ -0,0 +1,91 @@
 #include<stdio.h>
 #include<stdlib.h>
 void main() {
@@ -120,24 +91,4 @@ void main() {
  printf("\n Avg turnaround time: %f ", att / n);
  getch();
 }
-0 comments on commit cfb7adc
-@morris282001
- 
- 
-Leave a comment
 
-Attach files by dragging & dropping, selecting or pasting them.
- You’re receiving notifications because you’re watching this repository.
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
