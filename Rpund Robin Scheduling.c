@@ -1,4 +1,4 @@
-//Implementing the following processes using c language and compute waiting time, average waiting time, turnaround time, and average turnaround time. Process Burst Time Arrival Time(Assumed) respectively P1 53 0 P2 17 2 P3 68 4 P4 24 6
+//Implement the following processes using c language and compute waiting time, average waiting time, turnaround time, and average turnaround time. Process Burst Time Arrival Time(Assumed) respectively P1 53 0 P2 17 2 P3 68 4 P4 24 6
 
 #include<stdio.h>
 #include<stdlib.h>
